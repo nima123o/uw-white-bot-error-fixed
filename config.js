@@ -58,7 +58,6 @@ global.reactmoji = "😘"
 global.ownertag = ['761192103'] //ur owner tag
 global.ownernummenu = ['761192103'] //ur owner number in menu and all
 global.watermark = "White King WhatsApp Bot." //ur watermark
-global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
 global.linkz1 = "https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"
 global.linkz2 = "https://chat.whatsapp.com/Jub3moTE7jaBERo8DqWXC1"
 
